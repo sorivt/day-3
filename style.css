@@ -1,0 +1,32 @@
+p {
+    color: black;
+    background-color: white;
+    font-size: 25px;
+}
+.title
+{
+    align-items: center;
+}
+h1 {
+    color: black;
+    background-color: white;
+    display: inline-block;
+    margin-left: 250px;
+
+}
+
+a {
+    background-color: white;
+    font-size: large;
+    width: 100px;
+
+}
+.logo {
+    width: 150px;
+}
+body{
+    align-items: flex-end;
+    /* display: flex; */
+    /* justify-content: start; */
+    /* background: #000; */
+}
